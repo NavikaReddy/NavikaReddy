@@ -32,5 +32,5 @@ I'm an enthusiastic B.Tech student specializing in Computer Science and Business
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJS" width="50" height="50"/>
   <img src="https://i.pinimg.com/originals/cd/12/12/cd1212c949eb07ebdd18db8f8cbb350b.png" alt="NodeJS" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="50" height="50"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Funity-69&psig=AOvVaw1Ioahoou4EplgpXFuVsTQo&ust=1723444279978000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiT-7Ko7IcDFQAAAAAdAAAAABAE" alt="Unity" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity" width="50" height="50"/>
 </p>
